@@ -1,3 +1,6 @@
+
+<img width="375" height="779" alt="Screenshot 2025-12-18 at 2 55 08 PM" src="https://github.com/user-attachments/assets/255bb07e-4535-4384-9d0d-4aa3d13adbe8" />
+
 # uipractice
 
 A new Flutter project.
